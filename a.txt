@@ -1,0 +1,9 @@
+
+
+This is the document to check the merge conflicts in git
+
+
+
+My name is suriya
+My name is suriya
+My name is suriya
